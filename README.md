@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @nabila99139
-- 👀 I’m interested in Website developing and 2d Game Developing
-- 🌱 I’m currently learning in Semarang State Polytechnic as Informatic Student
-- 💞️ I’m looking to collaborate on Developing Front End and also Designing Web
-- 📫 How to reach me : nabilamiss99@gmail.com
-
-<!---
-nabila99139/nabila99139 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Nabila
+👀 I’m highly interested in Website developing
+🌱 I’m currently Working as Fullstack Developer Laravel. Tough I have other experience, interest, and skill in other framework and programming language such as Javascript, Python, React js, and Vue js
+💞️ I’m looking forward to collaborate on Developing Front End, Backend, and if you want also Designing Web
+📫 Reach me at: 
+Email >>> nabilamiss99@gmail.com
+WhatsApp/Telegram >>> 083865343849
+Linkedin >>> https://www.linkedin.com/in/nabilaah/
